@@ -1,1 +1,1 @@
-# learnig_react_native
+# learning_react_native
